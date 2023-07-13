@@ -1,0 +1,8 @@
+com\beosbank\jbdevg\jbossas\domain\MoneyTransferStatus.class
+com\beosbank\jbdevg\jbossas\domain\MoneyTransfert.class
+com\beosbank\jbdevg\jbossas\beans\MoneyTransferClusteredStatefullBean.class
+com\beosbank\jbdevg\jbossas\beans\MoneyTransferViewController.class
+com\beosbank\jbdevg\jbossas\domain\Address.class
+com\beosbank\jbdevg\jbossas\dao\ifc\IMoneyTransfertEjb.class
+com\beosbank\jbdevg\jbossas\beans\MoneyTransferClusteredStatelessBean.class
+com\beosbank\jbdevg\jbossas\domain\Customer.class
